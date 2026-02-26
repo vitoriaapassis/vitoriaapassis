@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Vitória 👋💕
 
-<!--
-**vitoriaapassis/vitoriaapassis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student focused on starting a career in Technology  
+💻 Interested in programming and development  
+🌱 Currently learning Java and programming logic  
+📍 Brazil  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ About me
+- 📚 Studying to grow in the tech field  
+- 🎯 Goal: get my first opportunity in IT  
+- 🌎 Learning English  
+- 💡 I like learning new things every day  
+
+---
+
+## 🚀 Technologies
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+*(more coming soon 👀)*
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=vitoriaapassis&show_icons=true&theme=tokyonight)
+
+---
+
+## 📚 Currently studying
+- Java, Python, HTML & CSS
+- Programming logic  
+- Git & GitHub  
+
+---
+
+## 📫 Contact
+- 📧 vitoria.apdeassis@gmail.com
+
+---
+
+✨ *“Starting from zero, but not for long.”*
