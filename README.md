@@ -1,42 +1,46 @@
-# Hi, I'm Vitória 👋💕
+# Hi, I'm Vitória 👋🩷
 
+```txt
 🎓 Student focused on starting a career in Technology  
 💻 Interested in programming and development  
 🌱 Currently learning Java and programming logic  
+🌎 English level: C1  
 📍 Brazil  
+```
 
 ---
 
 ## ✨ About me
-- 📚 Studying to grow in the tech field  
-- 🎯 Goal: get my first opportunity in IT  
-- 🌎 Learning English  
-- 💡 I like learning new things every day  
+```txt
+📚 Studying to grow in the tech field  
+🎯 Goal: get my first opportunity in IT  
+💡 I like learning new things every day  
+🩷 Organized and always improving  
+```
 
 ---
 
-## 🚀 Technologies
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-*(more coming soon 👀)*
-
----
-
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=vitoriaapassis&show_icons=true&theme=tokyonight&cache_seconds=1800)
+## 🎀 Technologies
+![Java](https://img.shields.io/badge/Java-FFB6C1?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FFC0CB?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-FFB6C1?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
 ## 📚 Currently studying
-- Java, Python, HTML & CSS
-- Programming logic  
-- Git & GitHub  
+```txt
+Java  
+Programming logic  
+Git & GitHub  
+```
 
 ---
 
 ## 📫 Contact
-- 📧 vitoria.apdeassis@gmail.com
+```txt
+📧 vitoria.apdeassis@gmail.com
+```
 
 ---
 
-✨ *“Starting from zero, but not for long.”*
+🩷 *“Starting from zero, but not for long.”*
