@@ -23,7 +23,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=vitoriaapassis&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=vitoriaapassis&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ---
 
